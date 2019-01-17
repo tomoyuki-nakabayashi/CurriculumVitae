@@ -15,6 +15,7 @@
 
 - 低レイヤ技術
   - プロセッサ、FPGA、Hypervisor、OS、コンパイラなど、低レイヤ技術が好きです。
+- 組込み
 - 組織化
   - 組織のことを考えるのも好きです。組織を良くするために影響力を持てるような仕事をしたいです。
 - 価値を信じられる仕事
@@ -67,12 +68,23 @@ MBTIは[ESTJ](https://en.wikipedia.org/wiki/ESTJ)型で、得意なこと、苦�
 | SoC | Xilinx ZynqMPSoC |
 | OS | Linux 4.14 |
 
+- 技術要素
+  - Linux kernel driver
+    - Distributed Switch Architecture (DSA)
+    - Ethernet MAC
+    - DMA
+  - FPGA
+    - AXI DMA
+    - Ethernet
+
 #### AGL リファレンスPF構築 (2018/10 - )
 
 |key|value|
 |---|-----|
 | SoC | Intel Apollolake |
 | OS | Linux 4.14 AGL 6.0 |
+
+
 
 #### 組込み向けXen Hypervisor環境構築 (2018/9 - 2018/11)
 
