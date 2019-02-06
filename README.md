@@ -11,6 +11,9 @@
 
 ## 希望条件
 
+2019/2/6現在、転職活動を行っておりません。
+本プロジェクトは個人のポートフォリオとして公開しています。
+
 ### やりたいこと
 
 - 低レイヤ技術
@@ -73,9 +76,13 @@ MBTIは[ESTJ](https://en.wikipedia.org/wiki/ESTJ)型で、得意なこと、苦�
     - Distributed Switch Architecture (DSA)
     - Ethernet MAC
     - DMA
-  - FPGA
+  - FPGA (Xilinx ZynqMP)
     - AXI DMA
     - Ethernet
+    - CAN FD
+
+PLに実装するソフトロジックIPとそのdriver調査で技術サポートしていました。
+必要に応じて、自身でFPGAにテスト回路を構成し、テストプログラム作成を実施しました。
 
 #### AGL リファレンスPF構築 (2018/10 - )
 
