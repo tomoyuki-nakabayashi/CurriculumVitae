@@ -8,10 +8,11 @@
 |Qiita|[tomoyuki-nakabayashi \- Qiita](https://qiita.com/tomoyuki-nakabayashi)|
 |Blog|[低レイヤ強くなりたい組込み屋さんのブログ](https://tomo-wait-for-it-yuki.hatenablog.com/)|
 |Twitter|[@LDScell](https://twitter.com/LDScell)|
+|BOOTH|[sabizen](https://sabizen.booth.pm/)|
 
 ## 希望条件
 
-2019/2/6現在、転職活動を行っておりません。
+2019年12月現在、転職活動を行っておりません。
 本プロジェクトは個人のポートフォリオとして公開しています。
 
 ### やりたいこと
@@ -60,7 +61,57 @@ MBTIは[ESTJ](https://en.wikipedia.org/wiki/ESTJ)型で、得意なこと、苦�
 
 ## 職務履歴
 
-### 某中堅SIer 組込み事業部 (2014/4 - )
+### コネクトフリー株式会社 (2019/2 - )
+
+- Senior Vice President of Embedded Software Development Group
+
+新しいプログラミング言語 (Zen言語) を用いた組込みシステムの開発に従事。
+
+- 組込みOS開発
+- 組込みボードNETBOY開発
+- Zen言語開発
+- Zen言語を用いた組込み開発戦略
+- LLVM IRを対象としたぜい弱性解析ツールの開発
+
+#### 組込みOS開発
+
+Zen言語を使用した組込みOSをスクラッチから開発中
+
+- 技術要素
+    - ARM Cortex-M
+    - RISC-V
+    - UEFI
+    - Real-Time OS
+
+#### 組込みボードNETBOY開発
+
+ボード開発をソフトウェアの観点から支援し、試作基板の動作確認を担当
+
+- 技術要素
+    - ボード立ち上げ
+    - Zephyr (動作確認に使用)
+
+#### Zen言語開発
+
+Zen言語の開発を一部担当 (主に標準ライブラリ)
+
+- 技術要素
+    - C++
+    - LLVM
+    - コンパイラ
+
+#### Zen言語の普及活動
+
+コミュニティ運営や本の執筆など
+
+#### LLVM IRを対象としたぜい弱性解析ツールの開発
+
+- 技術要素
+    - LLVM
+    - C FFI
+    - ぜい弱性解析
+
+### 某中堅SIer 組込み事業部 (2014/4 - 2019/1)
 
 受託開発。組込みLinux/Androidを中心としたエンジニアリングを経験。
 
