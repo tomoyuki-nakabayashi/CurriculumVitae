@@ -166,7 +166,7 @@ Wi-Fi/Bluetoothでは、一部機能が動作していない原因を解析し�
 
 三重大学工学研究科システム工学専攻　博士後期課程修了
 
-[博士論文 Reserches on fabrication of low-energy heterogeneous multi-core processors](http://www.arch.info.mie-u.ac.jp/project/GradThesis//db/100003.pdf)
+博士論文 Reserches on fabrication of low-energy heterogeneous multi-core processors
 
 低電力プロセッサの設計と実装を主軸とした研究に従事。
 
